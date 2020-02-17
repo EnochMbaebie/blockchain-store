@@ -1,6 +1,7 @@
 # Blockchain-Store
 
-# Description
+
+Description
 A decentralized application built with Solidity for Ethereum Blockchain. It privides access to Blockchain bookstore where educational, informative and helpful materials can be purchased and rent.
 This application has been built as final project during the Consensys Developer Bootcamp It's composed of several smart contracts and a web application.
 
@@ -23,7 +24,7 @@ run "npm install" to install the nesessary dependencies
 "npm start" to start the local server
 
 
-# Setting up local blockchain Development environment:
+Setting up local blockchain Development environment:
 
 Install ganache GUI in your local computer 
 
@@ -31,7 +32,7 @@ Start ganache: ganache-cli
 
 Accounts comes with pre-funded accounts.
 
-# Setting up metamask to sign transactions:
+Setting up metamask to sign transactions:
 
 Install metamask extention for your web browser
 
@@ -57,5 +58,4 @@ Note: If you see campaign is expired then just restart the ganache server and ru
 
 
 Thanks a lot!!
-
 
