@@ -1,6 +1,6 @@
 # Blockchain-Store 
-Video Summary https://youtu.be/ywdQXVrNjvk
 
+Find link to video demonstration of the software: https://youtu.be/ywdQXVrNjvk
 
 Description
 A decentralized application built with Solidity for Ethereum Blockchain. It privides access to Blockchain bookstore where educational, informative and helpful materials can be purchased and rent.
@@ -56,6 +56,11 @@ Once you conform the transaction it would be recorded into local ganache blockch
 Now the conteract state is updated on campaign page
 Note: If you see campaign is expired then just restart the ganache server and run "truffle migrate" command
 
+
+# Project requirements notes
+Find link to video demonstration of the software: https://youtu.be/ywdQXVrNjvk
+Project README: https://github.com/EnochMbaebie/blockchain-store/blob/master/README.md
+Avoiding common attacks: https://github.com/EnochMbaebie/blockchain-store/blob/master/avoiding_common_attacks.md
 
 
 Thanks a lot!!
