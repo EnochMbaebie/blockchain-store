@@ -1,4 +1,5 @@
-# Blockchain-Store
+# Blockchain-Store 
+Video Summary https://youtu.be/ywdQXVrNjvk
 
 # Description
 A decentralized application built with Solidity for Ethereum Blockchain. It privides access to Blockchain bookstore where educational, informative and helpful materials can be purchased and rent.
