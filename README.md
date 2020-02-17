@@ -23,7 +23,7 @@ run "npm install" to install the nesessary dependencies
 "npm start" to start the local server
 
 
-Setting up local blockchain Development environment:
+# Setting up local blockchain Development environment:
 
 Install ganache GUI in your local computer 
 
@@ -31,7 +31,7 @@ Start ganache: ganache-cli
 
 Accounts comes with pre-funded accounts.
 
-Setting up metamask to sign transactions:
+# Setting up metamask to sign transactions:
 
 Install metamask extention for your web browser
 
